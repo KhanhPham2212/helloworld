@@ -4,10 +4,7 @@ Welcome to microlink company
 Hello
 Hello 2
 
-<<<<<<< HEAD
 KhanhPham change info
-=======
 zendvn change info
->>>>>>> 65df6582c0c0003f60693ea9400161386ad257ab
 Change and upload 2
 Change and upload 3
